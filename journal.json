@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "surname": "Арсланов"
+  },
+  {
+    "id": 2,
+    "surname": "Корнеева"
+  },
+  {
+    "id": 3,
+    "surname": "Калик"
+  },
+  {
+    "id": 4,
+    "surname": "Абрамский"
+  }
+][
+  {
+    "id": 1,
+    "surname": "Гафаров",
+    "groupId": 1
+  },
+  {
+    "id": 2,
+    "surname": "Котельников",
+    "groupId": 1
+  },
+  {
+    "id": 3,
+    "surname": "Зотов",
+    "groupId": 2
+  },
+  {
+    "id": 4,
+    "surname": "Слободенюк",
+    "groupId": 2
+  },
+  {
+    "id": 5,
+    "surname": "Липаев",
+    "groupId": 2
+  },
+  {
+    "id": 6,
+    "surname": "Хисматуллин",
+    "groupId": 1
+  },
+  {
+    "id": 7,
+    "surname": "Марданов",
+    "groupId": 1
+  }
+][
+  {
+    "id": 1,
+    "studentId": 1,
+    "subjectId": 1,
+    "mark": 5
+  },
+  {
+    "id": 2,
+    "studentId": 2,
+    "subjectId": 2,
+    "mark": 4
+  },
+  {
+    "id": 3,
+    "studentId": 4,
+    "subjectId": 3,
+    "mark": 3
+  },
+  {
+    "id": 4,
+    "studentId": 1,
+    "subjectId": 3,
+    "mark": 4
+  }
+][
+  {
+    "id": 1,
+    "name": "Алгебра",
+    "teacherId": 1
+  },
+  {
+    "id": 2,
+    "name": "Дискретная математика",
+    "teacherId": 2
+  },
+  {
+    "id": 3,
+    "name": "Программирование",
+    "teacherId": 4
+  }
+][
+  {
+    "lessonNumber": 1,
+    "groupId": 1,
+    "teacherId": 1,
+    "dayOfWeek": "вторник",
+    "subjectId": 1
+  },
+  {
+    "lessonNumber": 2,
+    "groupId": 2,
+    "teacherId": 1,
+    "dayOfWeek": "понедел
